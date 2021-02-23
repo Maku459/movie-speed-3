@@ -4,23 +4,21 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
 
-public class speedUp : MonoBehaviour
+public class enterButton : MonoBehaviour
 {
-
-    // Use this for initialization
+    
+    public Text targetText;
+    
+    // Start is called before the first frame update
     void Start()
     {
+        
+    }
 
-    }
- 
     // Update is called once per frame
-    void Update()
-    {
-    }
-    
     public void OnClick()
     {
         var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
-        g.playbackSpeed += 0.05f;
+        targetText.text = g.playbackSpeed.ToString("F1");
     }
 }

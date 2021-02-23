@@ -10,7 +10,7 @@ public class speedDown : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-
+        
     }
  
     // Update is called once per frame
@@ -22,6 +22,6 @@ public class speedDown : MonoBehaviour
     public void OnClick()
     {
         var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
-        g.playbackSpeed -= 0.2f;
+        g.playbackSpeed -= 0.05f;
     }
 }
