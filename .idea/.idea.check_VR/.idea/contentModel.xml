@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="adjustSpeed.cs" t="Include" />
         <e p="enterButton.cs" t="Include" />
+        <e p="GameSystem.cs" t="Include" />
         <e p="Plugins" t="Include">
           <e p="GitHub" t="Include">
             <e p="Editor" t="Include">
