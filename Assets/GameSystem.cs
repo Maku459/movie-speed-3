@@ -8,7 +8,7 @@ using UnityEngine.Video;
 using Random = UnityEngine.Random;
 
 public class GameSystem : MonoBehaviour {
- 
+
     //　スタートボタンを押したら実行する
     public void OnClick() {
         SceneManager.sceneLoaded += SceneLoaded;

@@ -6,19 +6,21 @@ using UnityEngine.Video;
 
 public class enterButton : MonoBehaviour
 {
-    
-    public Text targetText;
-    
+    public Text firstText;
+    public Text resultText;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
+        firstText.text = g.playbackSpeed.ToString("F1");
     }
 
     // Update is called once per frame
     public void OnClick()
     {
         var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
-        targetText.text = g.playbackSpeed.ToString("F1");
+        resultText.text = g.playbackSpeed.ToString("F1");
+        firstText.color = new Color(1.0f,1.0f,1.0f,1.0f);
     }
 }

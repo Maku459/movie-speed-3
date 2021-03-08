@@ -18,12 +18,12 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
       <option value="$PROJECT_DIR$/Assets/speedDown.cs" />
       <option value="$PROJECT_DIR$/Assets/speedUp.cs" />
       <option value="$PROJECT_DIR$/Assets/adjustSpeed.cs" />
       <option value="$PROJECT_DIR$/Assets/ButtonSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/GameSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oscJcojAhEInWLbkLCHJk209O5" />
@@ -70,7 +70,7 @@
       <workItem from="1614705445191" duration="2782000" />
       <workItem from="1614792292052" duration="2501000" />
       <workItem from="1615192764170" duration="4886000" />
-      <workItem from="1615216896192" duration="4715000" />
+      <workItem from="1615216896192" duration="7625000" />
     </task>
     <servers />
   </component>
