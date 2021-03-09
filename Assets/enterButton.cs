@@ -13,14 +13,14 @@ public class enterButton : MonoBehaviour
     void Start()
     {
         var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
-        firstText.text = g.playbackSpeed.ToString("F1");
+        firstText.text = g.playbackSpeed.ToString("F2");
     }
 
     // Update is called once per frame
     public void OnClick()
     {
         var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
-        resultText.text = g.playbackSpeed.ToString("F1");
+        resultText.text = g.playbackSpeed.ToString("F2");
         firstText.color = new Color(1.0f,1.0f,1.0f,1.0f);
     }
 }
