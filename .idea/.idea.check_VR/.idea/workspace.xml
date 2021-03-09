@@ -12,8 +12,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/speedDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/transitionOne.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ButtonSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/speedUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/transitionTwo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/enterButton.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -24,6 +26,8 @@
       <option value="$PROJECT_DIR$/Assets/ButtonSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/GameSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/transitionOne.cs" />
+      <option value="$PROJECT_DIR$/Assets/transitionTwo.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oscJcojAhEInWLbkLCHJk209O5" />
@@ -71,6 +75,8 @@
       <workItem from="1614792292052" duration="2501000" />
       <workItem from="1615192764170" duration="4886000" />
       <workItem from="1615216896192" duration="8684000" />
+      <workItem from="1615321734272" duration="373000" />
+      <workItem from="1615322372248" duration="630000" />
     </task>
     <servers />
   </component>

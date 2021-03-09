@@ -11,7 +11,6 @@
         <e p="adjustSpeed.cs" t="Include" />
         <e p="ButtonSystem.cs" t="Include" />
         <e p="enterButton.cs" t="Include" />
-        <e p="GameSystem.cs" t="Include" />
         <e p="Oculus" t="Include">
           <e p="AudioManager" t="Include">
             <e p="scenes" t="Include">
@@ -834,6 +833,8 @@
             <e p="EmojiOne Attribution.txt" t="Include" />
           </e>
         </e>
+        <e p="transitionOne.cs" t="Include" />
+        <e p="transitionTwo.cs" t="Include" />
       </e>
       <e p="check_VR.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />

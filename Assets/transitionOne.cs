@@ -7,12 +7,12 @@ using UnityEngine.UI;
 using UnityEngine.Video;
 using Random = UnityEngine.Random;
 
-public class GameSystem : MonoBehaviour {
+public class transitionOne : MonoBehaviour {
 
     //　スタートボタンを押したら実行する
     public void OnClick() {
         SceneManager.sceneLoaded += SceneLoaded;
-        SceneManager.LoadScene ("WorldInteractionDemo");
+        SceneManager.LoadScene ("World_1");
     }
     // イベントハンドラー（イベント発生時に動かしたい処理）
     void SceneLoaded (Scene nextScene, LoadSceneMode mode) {
