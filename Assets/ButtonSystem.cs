@@ -16,9 +16,9 @@ public class ButtonSystem : MonoBehaviour
     void Update()
     {
         var g = GameObject.Find("Video Player").GetComponent<VideoPlayer>();
-        if (OVRInput.GetDown(OVRInput.Button.One)){
+        if (OVRInput.GetDown(OVRInput.RawButton.A)){
             g.playbackSpeed += 0.05f;
-        } else if(OVRInput.GetDown(OVRInput.Button.Two)){
+        } else if(OVRInput.GetDown(OVRInput.RawButton.B)){
             g.playbackSpeed -= 0.05f;
         }
     }

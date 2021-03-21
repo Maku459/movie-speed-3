@@ -23,12 +23,12 @@
       <option value="$PROJECT_DIR$/Assets/speedDown.cs" />
       <option value="$PROJECT_DIR$/Assets/speedUp.cs" />
       <option value="$PROJECT_DIR$/Assets/adjustSpeed.cs" />
-      <option value="$PROJECT_DIR$/Assets/ButtonSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/GameSystem.cs" />
       <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionOne.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionTwo.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionThree.cs" />
+      <option value="$PROJECT_DIR$/Assets/ButtonSystem.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oscJcojAhEInWLbkLCHJk209O5" />
@@ -78,6 +78,8 @@
       <workItem from="1615216896192" duration="8684000" />
       <workItem from="1615321734272" duration="373000" />
       <workItem from="1615322372248" duration="1867000" />
+      <workItem from="1616318537579" duration="1276000" />
+      <workItem from="1616341525599" duration="636000" />
     </task>
     <servers />
   </component>
