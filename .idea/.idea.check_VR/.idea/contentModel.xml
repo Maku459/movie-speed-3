@@ -834,6 +834,7 @@
           </e>
         </e>
         <e p="transitionOne.cs" t="Include" />
+        <e p="transitionThree.cs" t="Include" />
         <e p="transitionTwo.cs" t="Include" />
       </e>
       <e p="check_VR.sln" t="IncludeFlat" />
