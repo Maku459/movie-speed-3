@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ee03fe-b766-42f3-a074-d2f4ebe6fa83" name="Default Changelist" comment="" />
+    <list default="true" id="3f77c9b4-bd41-4272-bea8-3e176e8f8a28" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,32 +10,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/speedDown.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/transitionOne.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ButtonSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/speedUp.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/testDebug.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.2/Runtime/Inputs/InputActionManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/transitionTwo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/enterButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.2/Runtime/Interaction/XRInteractionManager.cs" root0="SKIP_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/speedDown.cs" />
-      <option value="$PROJECT_DIR$/Assets/speedUp.cs" />
-      <option value="$PROJECT_DIR$/Assets/adjustSpeed.cs" />
-      <option value="$PROJECT_DIR$/Assets/GameSystem.cs" />
-      <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionOne.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionTwo.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionThree.cs" />
-      <option value="$PROJECT_DIR$/Assets/ButtonSystem.cs" />
-      <option value="$PROJECT_DIR$/Assets/testDebug.cs" />
+      <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
     </changedPaths>
   </component>
-  <component name="ProjectId" id="1oscJcojAhEInWLbkLCHJk209O5" />
+  <component name="ProjectId" id="1uaGZL3Nt7sePOtpNnBvusFQ0xc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +31,14 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Documents/check_VR_blind.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\kyokochan\Documents" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -70,21 +61,15 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="12ee03fe-b766-42f3-a074-d2f4ebe6fa83" name="Default Changelist" comment="" />
-      <created>1614078671891</created>
+      <changelist id="3f77c9b4-bd41-4272-bea8-3e176e8f8a28" name="Default Changelist" comment="" />
+      <created>1624896346347</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614078671891</updated>
-      <workItem from="1614078693097" duration="6080000" />
-      <workItem from="1614705445191" duration="2782000" />
-      <workItem from="1614792292052" duration="2501000" />
-      <workItem from="1615192764170" duration="4886000" />
-      <workItem from="1615216896192" duration="8684000" />
-      <workItem from="1615321734272" duration="373000" />
-      <workItem from="1615322372248" duration="1867000" />
-      <workItem from="1616318537579" duration="1276000" />
-      <workItem from="1616341525599" duration="1238000" />
-      <workItem from="1616389604202" duration="2569000" />
+      <updated>1624896346347</updated>
+      <workItem from="1624896383334" duration="1211000" />
+      <workItem from="1625082790681" duration="35000" />
+      <workItem from="1625083775957" duration="1000000" />
+      <workItem from="1626354563813" duration="4000" />
     </task>
     <servers />
   </component>

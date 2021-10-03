@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\kyokochan\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kyokochan\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_check_VR.496318051.00" t="ExcludeRecursive" />
-    <e p="C:\Users\kyokochan\Desktop\check_XR\check_VR" t="IncludeRecursive">
+    <e p="C:\Users\kyokochan\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_check_VR_1_3.374198179.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kyokochan\Desktop\check_XR\check_VR_1_3" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -522,7 +522,7 @@
               <e p="BuildAssetPackages.cs" t="Include" />
               <e p="OculusSampleFrameworkUtil.cs" t="Include" />
             </e>
-            <e p="LICENSE.txt" t="Include" />
+            <e p="license.txt" t="Include" />
             <e p="Usage" t="Include">
               <e p="DebugUI" t="Include">
                 <e p="DebugUISample.cs" t="Include" />
@@ -663,7 +663,7 @@
               <e p="OVRSystemProfilerPanel.cs" t="Include" />
               <e p="PathHelper.cs" t="Include" />
             </e>
-            <e p="LICENSE.txt" t="Include" />
+            <e p="license.txt" t="Include" />
             <e p="NOTICE.txt" t="Include" />
             <e p="Oculus.VR.asmdef" t="Include" />
             <e p="Plugins" t="Include">
@@ -838,7 +838,7 @@
         <e p="transitionThree.cs" t="Include" />
         <e p="transitionTwo.cs" t="Include" />
       </e>
-      <e p="check_VR.sln" t="IncludeFlat" />
+      <e p="check_VR_1_3.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
       <e p="Oculus.Platform.csproj" t="IncludeRecursive" />
       <e p="Oculus.Platform.Editor.csproj" t="IncludeRecursive" />
