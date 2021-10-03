@@ -16,6 +16,7 @@
       <option value="$PROJECT_DIR$/Assets/transitionTwo.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionThree.cs" />
       <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
+      <option value="$PROJECT_DIR$/Assets/frameOnOff.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uaGZL3Nt7sePOtpNnBvusFQ0xc" />
@@ -70,7 +71,7 @@
       <workItem from="1625082790681" duration="35000" />
       <workItem from="1625083775957" duration="1000000" />
       <workItem from="1626354563813" duration="4000" />
-      <workItem from="1633252427288" duration="702000" />
+      <workItem from="1633252427288" duration="2252000" />
     </task>
     <servers />
   </component>
