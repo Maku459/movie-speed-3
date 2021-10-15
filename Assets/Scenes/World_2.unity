@@ -2130,7 +2130,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1726414424}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 9853c81090b0b4d4b998c40261f30e79, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 4ee9948a87b001347976a0439d802b42, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -3262,6 +3262,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6232745470614056085, guid: ecdbf3dc6204e7a46943712ecfb94c12,
+        type: 3}
+      propertyPath: m_TurnAmount
+      value: 15
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1670256627, guid: ecdbf3dc6204e7a46943712ecfb94c12, type: 3}
