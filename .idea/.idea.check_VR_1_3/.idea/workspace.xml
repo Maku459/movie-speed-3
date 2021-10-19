@@ -10,6 +10,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/LockPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.2/Runtime/Inputs/InputActionManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/transitionOne.cs" />
@@ -17,6 +21,7 @@
       <option value="$PROJECT_DIR$/Assets/transitionThree.cs" />
       <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
       <option value="$PROJECT_DIR$/Assets/frameOnOff.cs" />
+      <option value="$PROJECT_DIR$/Assets/LockPanel.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uaGZL3Nt7sePOtpNnBvusFQ0xc" />
@@ -73,6 +78,8 @@
       <workItem from="1626354563813" duration="4000" />
       <workItem from="1633252427288" duration="2848000" />
       <workItem from="1634248238990" duration="2000" />
+      <workItem from="1634277227178" duration="397000" />
+      <workItem from="1634643513467" duration="2873000" />
     </task>
     <servers />
   </component>

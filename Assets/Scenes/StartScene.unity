@@ -802,6 +802,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstText: {fileID: 0}
   resultText: {fileID: 0}
+  _time: {fileID: 0}
 --- !u!114 &912146931
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2039,7 +2040,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u901F\u3055\u306F\u30E9\u30F3\u30C0\u30E0\u3067\u3001360\u5EA6\u52D5\u753B\u304C\u518D\u751F\u3055\u308C\u307E\u3059\u3002\n\u4EE5\u4E0B\u306E\u30DC\u30BF\u30F3\u3092\u62BC\u3057\u3066\u3001\u81EA\u5206\u304C\u4E00\u756A\u5FC3\u5730\u3088\u3044\u3068\u601D\u3046\u901F\u5EA6\u306B\u8ABF\u6574\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+  m_Text: "\u901F\u3055\u306F\u30E9\u30F3\u30C0\u30E0\u3067\u3001360\u5EA6\u52D5\u753B\u304C\u518D\u751F\u3055\u308C\u307E\u3059\u3002\n\u4EE5\u4E0B\u306E\u30DC\u30BF\u30F3\u3092\u62BC\u3057\u3066\u3001\u5B9F\u4E16\u754C\u3068\u540C\u3058\u901F\u5EA6\u306B\u611F\u3058\u308B\u3088\u3046\u306B\u8ABF\u6574\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
 --- !u!222 &1717862231
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2213,6 +2214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstText: {fileID: 0}
   resultText: {fileID: 0}
+  _time: {fileID: 0}
 --- !u!114 &2073769238
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2747,6 +2749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstText: {fileID: 0}
   resultText: {fileID: 0}
+  _time: {fileID: 0}
 --- !u!114 &3610125289291434752
 MonoBehaviour:
   m_ObjectHideFlags: 0
