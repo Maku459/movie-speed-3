@@ -3557,7 +3557,12 @@ PrefabInstance:
     - target: {fileID: 6232745470614056085, guid: ecdbf3dc6204e7a46943712ecfb94c12,
         type: 3}
       propertyPath: m_TurnAmount
-      value: 15
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6232745470614056085, guid: ecdbf3dc6204e7a46943712ecfb94c12,
+        type: 3}
+      propertyPath: m_DebounceTime
+      value: 0.05
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 1670256627, guid: ecdbf3dc6204e7a46943712ecfb94c12, type: 3}

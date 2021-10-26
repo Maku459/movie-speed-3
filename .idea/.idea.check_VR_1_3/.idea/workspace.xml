@@ -18,12 +18,12 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
       <option value="$PROJECT_DIR$/Assets/frameOnOff.cs" />
-      <option value="$PROJECT_DIR$/Assets/LockPanel.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionOne.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionTwo.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionThree.cs" />
       <option value="$PROJECT_DIR$/Assets/speedDown.cs" />
       <option value="$PROJECT_DIR$/Assets/speedUp.cs" />
+      <option value="$PROJECT_DIR$/Assets/LockPanel.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uaGZL3Nt7sePOtpNnBvusFQ0xc" />
@@ -82,7 +82,8 @@
       <workItem from="1634248238990" duration="2000" />
       <workItem from="1634277227178" duration="397000" />
       <workItem from="1634643513467" duration="2873000" />
-      <workItem from="1634741837351" duration="1498000" />
+      <workItem from="1634741837351" duration="2093000" />
+      <workItem from="1634878095060" duration="836000" />
     </task>
     <servers />
   </component>
