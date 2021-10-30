@@ -1409,6 +1409,7 @@ GameObject:
   - component: {fileID: 781310447}
   - component: {fileID: 781310446}
   - component: {fileID: 781310445}
+  - component: {fileID: 781310449}
   m_Layer: 5
   m_Name: OKButton
   m_TagString: Untagged
@@ -1507,6 +1508,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 781310449}
+        m_TargetAssemblyTypeName: DataUploader, FirebaseRepository
+        m_MethodName: OnClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &781310447
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1545,6 +1558,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 781310443}
   m_CullTransparentMesh: 0
+--- !u!114 &781310449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 781310443}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c176cccd99d848aba4cd35c5d581eb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data:
+    id: 2
+    device: Quest
+    scene: 3
+    framebool: 0
+    timeStamp: 
+    rotation: []
+  target: {fileID: 1113378477}
 --- !u!1 &935067393 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1767192433, guid: ecdbf3dc6204e7a46943712ecfb94c12,
@@ -3470,6 +3503,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 705080845, guid: ecdbf3dc6204e7a46943712ecfb94c12, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1319746310, guid: ecdbf3dc6204e7a46943712ecfb94c12, type: 3}
       propertyPath: m_ValidColorGradient.key0.b
       value: 0

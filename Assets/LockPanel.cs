@@ -9,11 +9,12 @@ public class LockPanel : MonoBehaviour
     
     [SerializeField]
     private GameObject uiparent;
-    
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        uiparent.transform.rotation = Quaternion.identity;
+        uipanel.transform.parent = uiparent.transform;
     }
 
     public void OnClick()

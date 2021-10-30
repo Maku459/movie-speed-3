@@ -3473,6 +3473,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 705080845, guid: ecdbf3dc6204e7a46943712ecfb94c12, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1319746310, guid: ecdbf3dc6204e7a46943712ecfb94c12, type: 3}
       propertyPath: m_ValidColorGradient.key0.b
       value: 0
