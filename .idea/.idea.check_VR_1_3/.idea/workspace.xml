@@ -17,7 +17,6 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/enterButton.cs" />
-      <option value="$PROJECT_DIR$/Assets/frameOnOff.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionOne.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionTwo.cs" />
       <option value="$PROJECT_DIR$/Assets/transitionThree.cs" />
@@ -27,6 +26,7 @@
       <option value="$PROJECT_DIR$/Assets/FirebaseRepository/DataUploader.cs" />
       <option value="$PROJECT_DIR$/Assets/FirebaseRepository/FirebaseRepository.cs" />
       <option value="$PROJECT_DIR$/Assets/LockPanel.cs" />
+      <option value="$PROJECT_DIR$/Assets/frameOnOff.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uaGZL3Nt7sePOtpNnBvusFQ0xc" />
@@ -88,7 +88,7 @@
       <workItem from="1634741837351" duration="2093000" />
       <workItem from="1634878095060" duration="836000" />
       <workItem from="1635536524938" duration="9885000" />
-      <workItem from="1635603801705" duration="1376000" />
+      <workItem from="1635603801705" duration="3514000" />
     </task>
     <servers />
   </component>
