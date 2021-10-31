@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/LockPanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@1.0.0-pre.2/Runtime/Inputs/InputActionManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LockMovie.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -27,6 +28,7 @@
       <option value="$PROJECT_DIR$/Assets/FirebaseRepository/FirebaseRepository.cs" />
       <option value="$PROJECT_DIR$/Assets/LockPanel.cs" />
       <option value="$PROJECT_DIR$/Assets/frameOnOff.cs" />
+      <option value="$PROJECT_DIR$/Assets/LockMovie.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uaGZL3Nt7sePOtpNnBvusFQ0xc" />
@@ -88,7 +90,7 @@
       <workItem from="1634741837351" duration="2093000" />
       <workItem from="1634878095060" duration="836000" />
       <workItem from="1635536524938" duration="9885000" />
-      <workItem from="1635603801705" duration="4116000" />
+      <workItem from="1635603801705" duration="5878000" />
     </task>
     <servers />
   </component>

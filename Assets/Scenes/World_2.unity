@@ -257,6 +257,11 @@ PrefabInstance:
       propertyPath: data.scene
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8982177951520821169, guid: 72fa5ae491d30d24c8d3008d0c37a5e5,
+        type: 3}
+      propertyPath: videoplayer
+      value: 
+      objectReference: {fileID: 1726414424}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 72fa5ae491d30d24c8d3008d0c37a5e5, type: 3}
 --- !u!1 &636331136

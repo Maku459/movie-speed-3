@@ -21,6 +21,7 @@
           <e p="RandomRoll.cs" t="Include" />
         </e>
         <e p="frameOnOff.cs" t="Include" />
+        <e p="LockMovie.cs" t="Include" />
         <e p="LockPanel.cs" t="Include" />
         <e p="Oculus" t="Include">
           <e p="AudioManager" t="Include">
